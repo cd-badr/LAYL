@@ -21,7 +21,6 @@ export const AboutSec1 = () => {
                 <div className="bg-slate-50 w-[800px] h-[500px]">
                     <div className="">
                         <h1>
-                            
                         </h1>
                     </div>
 
