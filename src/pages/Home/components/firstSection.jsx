@@ -45,7 +45,7 @@ export const FirstSection = () => {
                                     <h1 className='text-2xl'>Interstellar</h1>
                                     <p className='opacity-70'>Le film raconte les aventures d’un groupe d’explorateurs qui utilisent une faille 
                                     récemment découverte dans l’espace-temps afin de repousser les limites humaines et
-                                     partir à la. <br />...</p>
+                                     partir à la.. <br />...</p>
                                     <p className='opacity-50'>"2014"</p>
                                 </div>
                             </div>
